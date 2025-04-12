@@ -1,4 +1,4 @@
-#movie generator 
+#movie search using IMDB api
 
 ##it's basic to use, just enter the movie you want
 
